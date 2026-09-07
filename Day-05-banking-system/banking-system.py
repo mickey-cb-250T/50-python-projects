@@ -69,7 +69,7 @@ def userinfo():
                     else:
                         print("Incorrect PIN")
 
-            else:
+                else:
                     print("User not found")
             if a ==5:
                 c=input("enter your username: ")
