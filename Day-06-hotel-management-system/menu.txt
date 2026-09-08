@@ -1,0 +1,38 @@
+========================================
+          🍽️  WELCOME TO FOOD HUB
+========================================
+
+                STARTERS
+----------------------------------------
+7.  French Fries              ₹120
+8.  Veg Manchurian            ₹160
+9.  Paneer Tikka              ₹220
+10.  Garlic Bread              ₹150
+11.  Spring Rolls              ₹140
+                MAIN COURSE
+----------------------------------------
+14.  Veg Burger                ₹180
+15.  Cheese Pizza              ₹250
+16.  Paneer Butter Masala      ₹240
+17.  Veg Biryani               ₹200
+18. Masala Dosa               ₹150
+19. Chole Bhature             ₹180
+20. Fried Rice                ₹190
+
+                BEVERAGES
+----------------------------------------
+24. Cold Coffee               ₹120
+25. Fresh Lime Soda           ₹100
+26. Mango Shake               ₹140
+27. Masala Tea                ₹70
+28. Soft Drink                ₹80
+
+                DESSERTS
+----------------------------------------
+32. Gulab Jamun               ₹100
+33. Ice Cream                 ₹120
+34. Chocolate Brownie         ₹160
+
+========================================
+             THANK YOU! 😊
+========================================
